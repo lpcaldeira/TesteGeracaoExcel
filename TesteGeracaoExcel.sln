@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteGeracaoExcel", "TesteGeracaoExcel\TesteGeracaoExcel.csproj", "{C7FA0279-E8C1-481A-A2FB-22727D897B3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7FA0279-E8C1-481A-A2FB-22727D897B3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7FA0279-E8C1-481A-A2FB-22727D897B3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7FA0279-E8C1-481A-A2FB-22727D897B3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7FA0279-E8C1-481A-A2FB-22727D897B3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A270488A-70C7-4633-B5A5-37AE794934BB}
+	EndGlobalSection
+EndGlobal
